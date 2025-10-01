@@ -13,7 +13,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<img src="https://raw.githubusercontent.com/Elxss/VPNBook-Code-Scrapper/main/Preview/demo.png" alt="Demo">
+<img src="https://raw.githubusercontent.com/Elxss/VPNBook-Code-Scrapper/main/demo.png" alt="Demo">
 
 ### About The Project
 
