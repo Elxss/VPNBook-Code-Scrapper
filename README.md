@@ -9,18 +9,11 @@
   </a>
 
   <h3 align="center">VPNBook code scrapper</h3>
-
-  <p align="center">
-    <br />
-    <a href="https://github.com/Elxss/Image-Captcha-Solver/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Elxss/Image-Captcha-Solver/issues">Request Feature</a>
-  </p>
 </div>
 
 
 <!-- TABLE OF CONTENTS -->
-
+<img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/demo.png" alt="Demo">
 ### About The Project
 <div align="center">
 
@@ -31,6 +24,10 @@ If you cannot afford a VPN it might even be better if you use Free Open VPN cfg 
 No updates to this code will be done
 This Repo is going to be Archived as well
 
+This script uses [pytesseract](https://pypi.org/project/pytesseract/)
+
+Wrote in 2021, Testedin 2025 Works
+
 </div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -39,7 +36,7 @@ This Repo is going to be Archived as well
 ## Roadmap
 
 - [x] Share Old code Base
-- [X] Warn To use this only if no other options
+- [X] Warn To use this only if no other options available
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -81,3 +81,5 @@ if saved_img_result:
     
     with open("pswd.txt", "w") as f:
         f.write(result)
+
+    print("saved to pswd.txt")
