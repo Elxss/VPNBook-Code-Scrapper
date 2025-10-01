@@ -20,7 +20,9 @@
 <div align="center">
 
 This projects scrapes VPNbook Authentication code check if the code changed and gives it, please use it only if really needed
-Use better VPNs like [Mullvad](https://mullvad.net/) if you're really interested in using one
+
+Use better VPN Provider like [Mullvad](https://mullvad.net/) if you're really interested in using one
+
 If you cannot afford a VPN it might even be better if you use Free Open VPN cfg from : [https://www.vpngate.net/en/](https://www.vpngate.net/en/)
 
 No updates to this code will be done
@@ -28,7 +30,7 @@ This Repo is going to be Archived as well
 
 This script uses [pytesseract](https://pypi.org/project/pytesseract/)
 
-Wrote in 2021, Testedin 2025 Works
+WRITTED IN 2021, TESTED IN 2025 WORKS
 
 </div>
 
