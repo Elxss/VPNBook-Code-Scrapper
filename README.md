@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Elxss/Image-Captcha-Solver">
+  <a href="https://github.com/Elxss/VPNBook-Code-Scrapper">
     <img src="https://raw.githubusercontent.com/Elxss/Elxss.github.io/main/src/img/logo.png" alt="Logo" width="300" height="300">
   </a>
 
@@ -13,8 +13,10 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<img src="https://raw.githubusercontent.com/Elxss/Image-Captcha-Solver/main/Preview/demo.png" alt="Demo">
+<img src="https://raw.githubusercontent.com/Elxss/VPNBook-Code-Scrapper/main/Preview/demo.png" alt="Demo">
+
 ### About The Project
+
 <div align="center">
 
 This projects scrapes VPNbook Authentication code check if the code changed and gives it, please use it only if really needed
